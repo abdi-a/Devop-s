@@ -1,5 +1,3 @@
-## Curriculum
-
 1.  **Module 1: Scripting & Automation**
     *   Basics of Bash scripting
     *   Automating file tasks
