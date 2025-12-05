@@ -1,7 +1,3 @@
-# DevOps Learning Journey
-
-Welcome to your DevOps training! I will be your instructor. We will build this repository up step-by-step.
-
 ## Curriculum
 
 1.  **Module 1: Scripting & Automation**
