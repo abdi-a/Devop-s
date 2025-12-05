@@ -14,7 +14,7 @@
     *   Terraform basics
 
 ## Current Status
-- [ ] Module 1: Scripting
+- [x] Module 1: Scripting
 - [ ] Module 2: Git
 - [ ] Module 3: Docker
 - [ ] Module 4: CI/CD
